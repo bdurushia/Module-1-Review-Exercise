@@ -18,6 +18,12 @@
             return triangleArea;
 
         }
+        static double GetRectangleArea(double length, double width)
+        {
+            // Calculate area of a rectangle
+            double rectangleArea = length * width;
+            return rectangleArea;
+        }
 
         static double GetSquareArea(double side)
         {
