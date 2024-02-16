@@ -19,11 +19,10 @@
 
         }
 
-        static double GetRectangleArea(double length, double width)
+        static double GetSquareArea(double side)
         {
-            // Calculate area of a rectangle
-            double rectangleArea = length * width;
-            return rectangleArea;
+            double squareArea = side * side;
+            return squareArea;
         }
         static void Main(string[] args)
         {
@@ -50,6 +49,13 @@
             Console.WriteLine("Please enter the width of your rectangle:");
             double width = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"The area of your rectangle is {GetRectangleArea(length, width)}.\n");
+
+            // AREA OF A SQUARE
+            // Ask user for the measurement of the side of their square and store it
+            Console.WriteLine("Please enter the length of one side of your square:");
+            double side = Convert.ToDouble(Console.ReadLine());
+            // Call method to calculate square area and write it to the console
+            Console.WriteLine($"The area of your square is {GetSquareArea(side)}.");
 
             // Ensures user can exit the CLI application after everything is done
             Console.WriteLine("\nPress any key to exit the application.");

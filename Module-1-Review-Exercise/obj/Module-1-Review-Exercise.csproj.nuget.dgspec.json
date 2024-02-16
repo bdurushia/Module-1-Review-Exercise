@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj": {}
+    "C:\\Users\\SK\\onedrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj": {
+    "C:\\Users\\SK\\onedrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\SK\\onedrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj",
         "projectName": "Module-1-Review-Exercise",
-        "projectPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj",
+        "projectPath": "C:\\Users\\SK\\onedrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\Module-1-Review-Exercise.csproj",
         "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\obj\\",
+        "outputPath": "C:\\Users\\SK\\onedrive\\Desktop\\repos\\Module-1-Review-Exercise\\Module-1-Review-Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
