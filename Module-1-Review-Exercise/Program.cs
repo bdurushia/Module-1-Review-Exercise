@@ -18,6 +18,12 @@
             return triangleArea;
 
         }
+
+        static double GetSquareArea(double side)
+        {
+            double squareArea = side * side;
+            return squareArea;
+        }
         static void Main(string[] args)
         {
             // AREA OF CIRCLE
@@ -36,6 +42,13 @@
             double baseLength = Convert.ToDouble(Console.ReadLine());
             // Call triangle method and print out the calculated area of the triangle
             Console.WriteLine($"The area of your triangle is {GetTriangleArea(height, baseLength)}.");
+
+            // AREA OF A SQUARE
+            // Ask user for the measurement of the side of their square and store it
+            Console.WriteLine("Please enter the length of one side of your square:");
+            double side = Convert.ToDouble(Console.ReadLine());
+            // Call method to calculate square area and write it to the console
+            Console.WriteLine($"The area of your square is {GetSquareArea(side)}.");
 
             // Ensures user can exit the CLI application after everything is done
             Console.WriteLine("\nPress any key to exit the application.");
