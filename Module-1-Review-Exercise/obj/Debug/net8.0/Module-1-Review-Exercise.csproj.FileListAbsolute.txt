@@ -1,0 +1,15 @@
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\bin\Debug\net8.0\Module-1-Review-Exercise.exe
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\bin\Debug\net8.0\Module-1-Review-Exercise.deps.json
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\bin\Debug\net8.0\Module-1-Review-Exercise.runtimeconfig.json
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\bin\Debug\net8.0\Module-1-Review-Exercise.dll
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\bin\Debug\net8.0\Module-1-Review-Exercise.pdb
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.AssemblyInfoInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.AssemblyInfo.cs
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.sourcelink.json
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.dll
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\refint\Module-1-Review-Exercise.dll
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.pdb
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\Module-1-Review-Exercise.genruntimeconfig.cache
+C:\Users\SK\OneDrive\Desktop\repos\Module-1-Review-Exercise\Module-1-Review-Exercise\obj\Debug\net8.0\ref\Module-1-Review-Exercise.dll
