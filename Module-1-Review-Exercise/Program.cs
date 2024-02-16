@@ -18,6 +18,13 @@
             return triangleArea;
 
         }
+
+        static double GetRectangleArea(double length, double width)
+        {
+            // Calculate area of a rectangle
+            double rectangleArea = length * width;
+            return rectangleArea;
+        }
         static void Main(string[] args)
         {
             // AREA OF CIRCLE
@@ -35,7 +42,14 @@
             Console.WriteLine("Please enter the base length of your triangle:");
             double baseLength = Convert.ToDouble(Console.ReadLine());
             // Call triangle method and print out the calculated area of the triangle
-            Console.WriteLine($"The area of your triangle is {GetTriangleArea(height, baseLength)}.");
+            Console.WriteLine($"The area of your triangle is {GetTriangleArea(height, baseLength)}.\n");
+
+            // AREA OF RECTANGLE
+            Console.WriteLine("Please enter the length of your rectangle:");
+            double length = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Please enter the width of your rectangle:");
+            double width = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"The area of your rectangle is {GetRectangleArea(length, width)}.\n");
 
             // Ensures user can exit the CLI application after everything is done
             Console.WriteLine("\nPress any key to exit the application.");
