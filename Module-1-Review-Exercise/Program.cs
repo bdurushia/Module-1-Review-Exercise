@@ -3,7 +3,7 @@
     internal class Program
     {
 
-        static double GetCircleArea(double radius)
+        public static double GetCircleArea(double radius)
         {
             // This method takes in the user given radius and uses Math.PI to calculate the area of the circle
             double circleArea = Math.PI * radius * radius;
@@ -11,21 +11,21 @@
             return circleArea;
         }
 
-        static double GetTriangleArea(double baseLength, double height)
+        public static double GetTriangleArea(double baseLength, double height)
         {
             // A = ( hb * b ) / 2
             double triangleArea = (height * baseLength) / 2;
             return triangleArea;
 
         }
-        static double GetRectangleArea(double length, double width)
+        public static double GetRectangleArea(double length, double width)
         {
             // Calculate area of a rectangle
             double rectangleArea = length * width;
             return rectangleArea;
         }
 
-        static double GetSquareArea(double side)
+        public static double GetSquareArea(double side)
         {
             double squareArea = side * side;
             return squareArea;
